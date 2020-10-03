@@ -4,7 +4,7 @@
 
 This application was developed by Malith97 for Synn~Labz
 
-This is Electronic 12 drum pad app.This app provides the 12 music drum pads with programmable notes. you can easily programme any note. This may help you to get an unique sounds for your requirement.
+This is Electronic 12 drum pad app.This app provides the 12 music drum pads with programmable notes. you can easily programme any note. This may help you to get an unique sounds for your requirement..
 
 
 ## IMAGES 
