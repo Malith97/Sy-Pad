@@ -15,4 +15,4 @@ This is Electronic 12 drum pad app.This app provides the 12 music drum pads with
 
 ## LICENSE
 
-MIT License, feel free to use the code as you please
+MIT License, feel free to use the code as you please.
